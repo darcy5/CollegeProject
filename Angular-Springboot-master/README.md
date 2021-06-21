@@ -26,7 +26,7 @@ E-Commerce application developed for performing Admin and Customer user role ope
   * MySQL
   * JWT Token (Session management)
 
-#### Web services project can be found in (https://github.com/cyela/Springboot-Web-Services)
+
 
 #### Application screenshots
 * Login 
