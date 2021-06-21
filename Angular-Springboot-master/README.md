@@ -28,31 +28,10 @@ E-Commerce application developed for performing Admin and Customer user role ope
 
 
 
-#### Application screenshots
-* Login 
-    ![Image of screenshot](https://github.com/cyela/Angular-Springboot/blob/master/src/assets/Screenshots/LoginScreen.png)
-* Register 
-    ![Image of screenshot](https://github.com/cyela/Angular-Springboot/blob/master/src/assets/Screenshots/RegisterScreen.png)
-* Customer 
-    * Home 
-        ![Image of screenshot](https://github.com/cyela/Angular-Springboot/blob/master/src/assets/Screenshots/CustHome.png)
-    * Address 
-        ![Image of screenshot](https://github.com/cyela/Angular-Springboot/blob/master/src/assets/Screenshots/CustAddress.png)
-    * Cart 
-        ![Image of screenshot](https://github.com/cyela/Angular-Springboot/blob/master/src/assets/Screenshots/CartScreen.png)
-* Admin 
-    * Home
-        ![Image of screenshot](https://github.com/cyela/Angular-Springboot/blob/master/src/assets/Screenshots/AdminHome.png)
-    * Add new product 
-        ![Image of screenshot](https://github.com/cyela/Angular-Springboot/blob/master/src/assets/Screenshots/AddProduct.png)
-    * Edit product 
-        ![Image of screenshot](https://github.com/cyela/Angular-Springboot/blob/master/src/assets/Screenshots/EditProduct.png)
-    * View orders 
-        ![Image of screenshot](https://github.com/cyela/Angular-Springboot/blob/master/src/assets/Screenshots/OrderScreen.png)
----------
+
 ### Development server
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) 
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
